@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 ![{usuario} stats](https://github-readme-stats.vercel.app/api?username=andredbatista&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andredbatista)](https://github.com/andredbatista/github-readme-stats)
 
+ <img src="https://skillicons.dev/icons?i=java" width="48"> 
