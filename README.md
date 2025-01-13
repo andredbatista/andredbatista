@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![{usuario} stats](https://github-readme-stats.vercel.app/api?username=andredbatista&show_icons=true)
+
+<img src="https://skillicons.dev/icons?i=java" width="48">    <img src="https://skillicons.dev/icons?i=mongodb" width="48"> 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andredbatista)](https://github.com/andredbatista/github-readme-stats)
 
- <img src="https://skillicons.dev/icons?i=java" width="48">    <img src="https://skillicons.dev/icons?i=mongodb" width="48"> 
+
             
           
