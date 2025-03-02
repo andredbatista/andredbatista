@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://skillicons.dev/icons?i=java" width="48">    <img src="https://skillicons.dev/icons?i=mongodb" width="48"> 
+<img src="https://skillicons.dev/icons?i=java" width="48">    <img src="https://skillicons.dev/icons?i=mongodb" width="48"> <i class="fa-brands fa-html5"></i>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andredbatista)](https://github.com/andredbatista/github-readme-stats)
 
